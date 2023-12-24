@@ -15,8 +15,9 @@ File Integrity Monitor is a simple PowerShell script that helps you monitor the 
    ```bash
    git clone https://github.com/WayneArul/file-integrity-monitor.git
 
-   ```powershell
    cd File-Integrity-Monitor
+
+   .\main.ps1
 
 ## How It Works
 
