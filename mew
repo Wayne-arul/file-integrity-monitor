@@ -7,6 +7,8 @@ pass --> blackcat10
 MSF:
 https://academy.hackthebox.com/course/preview/using-the-metasploit-framework
 
+nuclei -u https://sda.gov.in/    
+
 
 arpwatch -i eth0
 arp -a
