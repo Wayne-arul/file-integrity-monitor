@@ -1,0 +1,54 @@
+aircrack-ng -w rockyou.txt -b e2:b0:c5:5c:62:aa captureit-01.cap
+
+
+pass --> blackcat10
+
+
+MSF:
+https://academy.hackthebox.com/course/preview/using-the-metasploit-framework
+
+
+arpwatch -i eth0
+arp -a
+
+/var/system/logs
+
+Timestamp: Sun Oct 21 10:05:23 2024
+arpwatch: new station 192.168.1.45 00:1a:2b:3c:4d:5e
+arpwatch: ethernet vendor is Cisco Systems
+
+Timestamp: Sun Oct 21 10:06:12 2024
+arpwatch: flip flop 192.168.1.100 00:11:22:33:44:55 -> 00:66:77:88:99:aa
+arpwatch: ethernet vendor is Netgear
+
+Timestamp: Sun Oct 21 10:07:55 2024
+arpwatch: changed ethernet address 192.168.1.12 00:14:22:3b:5f:61 -> 00:19:27:2d:4c:6f
+arpwatch: ethernet vendor is Dell Inc.
+
+Timestamp: Sun Oct 21 10:08:48 2024
+arpwatch: new station 192.168.1.75 00:22:44:66:88:aa
+arpwatch: ethernet vendor is Apple Inc.
+
+Timestamp: Sun Oct 21 10:10:10 2024
+arpwatch: duplicate IP address 192.168.1.45 00:1a:2b:3c:4d:5e
+arpwatch: ethernet vendor is Cisco Systems
+
+Timestamp: Sun Oct 21 10:12:34 2024
+arpwatch: new station 192.168.1.30 00:2d:3c:4e:5f:6a
+arpwatch: ethernet vendor is TP-LINK Technologies
+
+Timestamp: Sun Oct 21 10:14:18 2024
+arpwatch: flip flop 192.168.1.105 00:33:44:55:66:77 -> 00:22:33:44:55:66
+arpwatch: ethernet vendor is Hewlett-Packard
+
+Timestamp: Sun Oct 21 10:15:45 2024
+arpwatch: new station 192.168.1.65 00:55:66:77:88:99
+arpwatch: ethernet vendor is Samsung Electronics
+
+Timestamp: Sun Oct 21 10:17:12 2024
+arpwatch: changed ethernet address 192.168.1.52 00:67:88:99:aa:bb -> 00:77:88:99:bb:cc
+arpwatch: ethernet vendor is Intel Corporation
+
+Timestamp: Sun Oct 21 10:18:43 2024
+arpwatch: new station 192.168.1.88 00:1e:22:3b:4d:5c
+arpwatch: ethernet vendor is Huawei Technologies
