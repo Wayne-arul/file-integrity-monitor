@@ -51,7 +51,7 @@ elseif($res -eq 'B'.ToUpper()){
         if($filedir[$hash.Path] -eq $null){
             Write-Host "$($hash.Path) has been created!" -ForegroundColor Green
         }
-
+# CTF{Try_Again_clown}
         else {
             if($filedir[$hash.Path] -eq $hash.Hash){
                 #file not changed
